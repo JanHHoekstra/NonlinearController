@@ -8,7 +8,7 @@ Main developer: PhD candidate Jan Hoekstra at the TU/e. Control Systems. j.h.hoe
 
 When citing please use
 
-> J. H. Hoekstra, B. Cseppento, G. I. Beintema, M. Schoukens, Z. Kollár, R. Toth. Computationally efficient predictive control based on ANN state-space models; CDC 2023, [Published version](https://ieeexplore.ieee.org/iel7/10383192/10383193/10383724.pdf)
+> J. H. Hoekstra, B. Cseppento, G. I. Beintema, M. Schoukens, Z. Kollár, R. Toth. Computationally efficient predictive control based on ANN state-space models; CDC 2023, [Published version](https://ieeexplore.ieee.org/iel7/10383192/10383193/10383724.pdf) [Extended Master thesis](https://research.tue.nl/en/studentTheses/computationally-efficient-predictive-control-based-on-ann-state-s/)
 
 ## Funding
 
