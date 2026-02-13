@@ -1,17 +1,19 @@
-# NonlinearController
-Nonlinear Controller
+## Contact
 
-## Goals of NonlinearController
-The goal is to provide a tool that can be used to simulate control of nonlinear controllers.
+Feel free to contact me directly for any question or issues.
 
-## Example
-```python
-import numpy
-from matplotlib import pyplot as plt
+Main developer: PhD candidate Jan Hoekstra at the TU/e. Control Systems. j.h.hoekstra@tue.nl
 
-define model
+## Citation
 
-define controller
+When citing please use
 
-run simulation
-```
+> J. H. Hoekstra, B. Cseppento, G. I. Beintema, M. Schoukens, Z. Kollár, R. Toth. Computationally efficient predictive control based on ANN state-space models; CDC 2023, [Published version](https://ieeexplore.ieee.org/iel7/10383192/10383193/10383724.pdf)
+
+## Funding
+
+Funded by the European Union (ERC, COMPLETE, 101075836). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+
+## License
+
+BSD 3-Clause License
