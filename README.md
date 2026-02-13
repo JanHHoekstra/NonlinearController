@@ -12,7 +12,7 @@ When citing please use
 
 ## Funding
 
-Funded by the European Union (ERC, COMPLETE, 101075836). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+This research was supported by the Eötvös Loránd Research Network (grant. number: SA-77/2021) and the Gedeon Richter PhD scholarship of excellence by the Gedeon Richter Talentum Foundation.
 
 ## License
 
